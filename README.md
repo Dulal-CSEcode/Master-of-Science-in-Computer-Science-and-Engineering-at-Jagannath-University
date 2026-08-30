@@ -6,8 +6,6 @@
 ---
 
 
-
-
 ## 1. Course Evaluation Structure
 
 The performance of students in each course shall be evaluated through a combination of **Continuous Assessment** and the **Final Examination**.
