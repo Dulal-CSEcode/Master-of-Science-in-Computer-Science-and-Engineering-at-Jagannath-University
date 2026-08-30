@@ -21,6 +21,7 @@ The performance of students in each course shall be evaluated through a combinat
 
 ---
 
+
 ## 2. Attendance and Class Performance (10%)
 
 Attendance and class performance shall carry **10%** of the total course marks.
