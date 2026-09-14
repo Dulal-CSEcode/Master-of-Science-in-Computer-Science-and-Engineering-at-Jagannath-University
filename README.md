@@ -2,7 +2,6 @@
 ## Jagannath University
 
 # Course Evaluation and Examination Policy
-
 ---
 
 
