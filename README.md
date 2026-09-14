@@ -3,7 +3,6 @@
 
 # Course Evaluation and Examination Policy
 
-
 ---
 
 
